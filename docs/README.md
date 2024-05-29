@@ -20,6 +20,21 @@ servers = {
     "instance_ipv4_addr" = "49.13.217.172"
     "instance_ipv6_addr" = "2a01:4f8:c013:3c88::1"
   }
+  "Devlin" = {
+    "instance_fqdn" = "server-of-devlin.pxl.bjth.xyz"
+    "instance_ipv4_addr" = "49.13.87.204"
+    "instance_ipv6_addr" = "2a01:4f8:c012:ebd9::1"
+  }
+  "Kobe" = {
+    "instance_fqdn" = "server-of-kobe.pxl.bjth.xyz"
+    "instance_ipv4_addr" = "49.13.123.1"
+    "instance_ipv6_addr" = "2a01:4f8:c17:c84::1"
+  }
+  "Laye" = {
+    "instance_fqdn" = "server-of-laye.pxl.bjth.xyz"
+    "instance_ipv4_addr" = "49.13.129.59"
+    "instance_ipv6_addr" = "2a01:4f8:c17:8cd::1"
+  }
   "Robert" = {
     "instance_fqdn" = "server-of-robert.pxl.bjth.xyz"
     "instance_ipv4_addr" = "49.13.215.102"
@@ -29,6 +44,11 @@ servers = {
     "instance_fqdn" = "server-of-runar.pxl.bjth.xyz"
     "instance_ipv4_addr" = "5.75.255.184"
     "instance_ipv6_addr" = "2a01:4f8:c17:efec::1"
+  }
+  "Seba" = {
+    "instance_fqdn" = "server-of-seba.pxl.bjth.xyz"
+    "instance_ipv4_addr" = "188.245.55.112"
+    "instance_ipv6_addr" = "2a01:4f8:c17:fd86::1"
   }
   "Ward" = {
     "instance_fqdn" = "server-of-ward.pxl.bjth.xyz"
